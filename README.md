@@ -1,4 +1,12 @@
+<a href="https://scan.coverity.com/projects/s01o-mir-eternal">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/27218/badge.svg"/>
+</a>
+
+
 # Mir Eternal Files
+
+
 
 
 [![AccountServer Build](https://github.com/Suprcode/mir-eternal/actions/workflows/accountserver-build.yml/badge.svg?branch=main)](https://github.com/Suprcode/mir-eternal/actions/workflows/accountserver-build.yml)
